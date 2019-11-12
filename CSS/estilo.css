@@ -1,3 +1,18 @@
+@font-face{
+  src: url(../Fuentes/just_another_hand.woff);
+  font-family: "Texto_1";
+}
+
+@font-face{
+  src: url(../Fuentes/lobster.woff);
+  font-family: "Texto_2";
+}
+
+@font-face{
+  src: url(../Fuentes/ribeye_marrow.woff);
+  font-family: "Texto_3";
+}
+
 footer{
     font-style: cursive;
 }
