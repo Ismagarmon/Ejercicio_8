@@ -13,6 +13,8 @@
   font-family: "Texto_3";
 }
 
-footer{
-    font-style: cursive;
+#parrafo_1{
+    font-family: "Texto_1", cursive;
+    text-align: right;
+    font-size: 30px;
 }
